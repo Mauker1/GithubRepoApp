@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">Mauker Github App</string>
+
+    <string name="repo_url_placeholder" formatted="true" translatable="false">URL: %1$s</string>
+
+    <!-- region errors -->
+
+    <string name="error_loading_data" tools:ignore="MissingTranslation">Could not load data…</string>
+    <string name="error_intent_browser" tools:ignore="MissingTranslation">No browser installed!</string>
+
+    <!-- endregion -->
+
+    <!-- region main -->
+
+    <string name="action_go_to_website" tools:ignore="MissingTranslation">To repo</string>
+    <string name="main_init_state" tools:ignore="MissingTranslation">Please, search for repositories</string>
+
+    <!-- region accessibility -->
+
+    <string name="accessibility_profile_picture" tools:ignore="MissingTranslation">Profile picture</string>
+
+    <!-- endregion -->
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- region main -->
+
+    <dimen name="profile_size">64dp</dimen>
+
+    <!-- endregion -->
+</resources>

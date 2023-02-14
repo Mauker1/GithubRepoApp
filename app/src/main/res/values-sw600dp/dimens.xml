@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">@dimen/triple_grid</dimen>
+    <dimen name="activity_vertical_margin">@dimen/triple_grid</dimen>
+
+    <!-- region main -->
+
+    <dimen name="profile_size">64dp</dimen>
+
+    <!-- endregion -->
+</resources>
